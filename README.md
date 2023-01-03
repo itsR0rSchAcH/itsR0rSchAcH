@@ -1,5 +1,5 @@
 # Salut, je m'appelle **Raphaël** :wave:, 
-###  [:crystal_ball:] J'aime imaginé et concrétisé mes idées via mes projets et je vous invite à en découvrir quelque un !. Actuellement dans un cursus universitaire en Bachelor Universitaire en **Réseau et Télécommunication**. Futur ingénieur réseaux (je l'espère) 
+###  [:crystal_ball:]  J'aime imaginé et concrétisé mes idées via mes projets et par ailleurs je vous invite à en découvrir quelques-uns!! Actuellement dans un cursus universitaire en **Réseau et Télécommunication**. Futur ingénieur réseaux (je l'espère). Et en 3 mots je suis motivé, audacieux et créatif.
 ## :lock: Passionné de cyber, réseau et administration système.
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -12,6 +12,8 @@
 
 ## :seedling: Debutant en dev
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+https://www.codewars.com/users/Raphaelito.py/completed
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -26,11 +28,12 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-## :two_hearts: En recherche constante de techno innovante
+## :two_hearts: En recherche constante de techno
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+
+<!---
 Explication sur la syntaxe readme
 https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 EMOJI
@@ -40,10 +43,6 @@ https://github.com/Ileriayo/markdown-badges
 
 EXEMPLE de profil
 https://zzetao.github.io/awesome-github-profile/$
-
-Mettre le code war
-
-Mettre des soft skill
 
 Cours sur des notion de cyber
 https://www.hacksplaining.com/lessons
@@ -82,7 +81,7 @@ Describe here the way to use/install your project
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
-<--
+
 **itsR0rSchAcH/itsR0rSchAcH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://www.hacksplaining.com/lessons
 Here are some ideas to get you started:
