@@ -1,5 +1,5 @@
 # Salut, je m'appelle **Raphaël** :wave:, 
-###  [:crystal_ball:]  J'aime imaginé et concrétisé mes idées via mes projets et par ailleurs je vous invite à en découvrir quelques-uns!! Actuellement dans un cursus universitaire en **Réseau et Télécommunication**. Futur ingénieur réseaux (je l'espère). Et en 3 mots je suis motivé, audacieux et créatif.
+###  [:crystal_ball:]  J'aime imaginé et concrétisé mes idées via mes projets et par ailleurs je vous invite à en découvrir quelques-uns! Actuellement dans un cursus universitaire en **Réseau et Télécommunication**. Futur ingénieur réseaux (je l'espère). Et en 3 mots je suis motivé, audacieux et créatif.
 ## :lock: Passionné de cyber, réseau et administration système.
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
